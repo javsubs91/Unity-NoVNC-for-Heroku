@@ -1,7 +1,9 @@
 {
-	"name": "noVNC Debian",
-	"repository": "https://github.com/hzhoanglee/Unity-NoVNC-for-Heroku"
-	    { "url": "heroku/nodejs" },
-    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+  "name": "torrent-aio-bot",
+  "description": "All in one bot for torrenting",
+  "repository": "https://github.com/hzhoanglee/Unity-NoVNC-for-Heroku",
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/hzhoanglee/Unity-NoVNC-for-Heroku.git" }
   ]
 }
