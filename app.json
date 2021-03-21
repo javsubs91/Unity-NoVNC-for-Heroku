@@ -1,7 +1,7 @@
 {
 	"name": "noVNC Debian",
 	"repository": "https://github.com/hzhoanglee/Unity-NoVNC-for-Heroku"
-	  "builpacks": [
+  "builpacks": [
 	    { "url": "heroku/nodejs" },
     { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
   ]
